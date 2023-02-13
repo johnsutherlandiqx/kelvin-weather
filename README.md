@@ -11,3 +11,4 @@ Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered
 ### John Sutherland
 
 - [GitHub Profile](https://github.com/johnsutherlandiqx/)
+- [https://www.codecademy.com/courses/introduction-to-javascript/projects/kelvin-weather-javascript]
