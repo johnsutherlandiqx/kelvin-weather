@@ -91,12 +91,3 @@ Newton = Celsius * (33/100)
 
 Round down the Newton temperature using the .floor() method
 Use console.log and string interpolation to log the temperature in newton to the console
-
-Hint
-// Convert to Newton
-let newton = celsius * (33 / 100);
- 
-// Round down
-newton = Math.floor(newton);
- 
-console.log(`The temperature is ${newton} degrees Newton.`);
