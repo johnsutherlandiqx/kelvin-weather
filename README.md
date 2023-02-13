@@ -13,3 +13,5 @@ Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered
 - [GitHub Profile](https://github.com/johnsutherlandiqx/)
 - https://www.codecademy.com/courses/introduction-to-javascript/projects/kelvin-weather-javascript
 - https://www.codecademy.com/resources/docs/javascript/comments?page_ref=catalog
+- https://en.wikipedia.org/wiki/Kelvin
+- https://en.wikipedia.org/wiki/Newton_scale
