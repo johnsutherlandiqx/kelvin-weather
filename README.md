@@ -6,6 +6,18 @@ Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered
 
 > Project 1 in the Codecademy Web Development Course Module 3: Getting Started with JavaScript
 
+## Key
+- Create variables
+- Convert method
+- Round down decimal place
+- Check answers
+- String method to console
+- Re-set and check conversion code
+- String method to console
+
+## Aim
+- Create temperature converter 
+
 ## Author
 
 ### John Sutherland
